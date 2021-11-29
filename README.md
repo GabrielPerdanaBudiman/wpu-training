@@ -1,2 +1,2 @@
 # wpu-training
-Belajar Repository
+Repository u/ kedepannya
